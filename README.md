@@ -17,6 +17,6 @@
 
 2. Test2.txt file contains:
 
-   |*Newline </br> Newline </br> Newline*|
+   | *Newline </br> Newline </br> Newline* |
 
    In the above case, only the frist line, *"Newline"* is returned
